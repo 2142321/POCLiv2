@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">LivitPOC</string>
+
+  <string name="tab_text_1">Boodschappen</string>
+  <string name="tab_text_2">Home</string>
+  <string name="tab_text_3">Chat</string>
+</resources>
